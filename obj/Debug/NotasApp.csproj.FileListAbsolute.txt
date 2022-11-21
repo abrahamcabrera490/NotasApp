@@ -1,0 +1,11 @@
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\bin\Debug\NotasApp.exe.config
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\bin\Debug\NotasApp.exe
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\bin\Debug\NotasApp.pdb
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\obj\Debug\NotasApp.csproj.AssemblyReference.cache
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\obj\Debug\NotasApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\obj\Debug\NotasApp.Form1.resources
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\obj\Debug\NotasApp.Properties.Resources.resources
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\obj\Debug\NotasApp.csproj.GenerateResource.cache
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\obj\Debug\NotasApp.csproj.CoreCompileInputs.cache
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\obj\Debug\NotasApp.exe
+C:\Users\abrah\OneDrive\Escritorio\Proyecto seguros\NotasApp\obj\Debug\NotasApp.pdb
